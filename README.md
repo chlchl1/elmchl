@@ -6,4 +6,4 @@
 moment md5 request
 
 拉库
-ql repo https://github.com/xiaochai777/elm777.git "^ele" "" "USER|common|ql|sendNotify1"
+ql repo https://github.com/chlchl1/elmchl.git "^ele" "" "USER|common|ql|sendNotify1"
